@@ -1,0 +1,76 @@
+[
+    {
+        "store": "McDonald's Pinelands Drive-Thru",
+        "address": "Howard Centre, Forest Dr Service Rd · In Howard Centre",
+        "telephone": "021 531 4545",
+        "latitude":-33.938780,
+        "longitude":18.503080
+    },
+    {
+        "store": "McDonald’s Strand Street",
+        "address": "Cape Town City Centre Cnr Strand Street &, 24A Long St",
+        "telephone": "xxxxxxxxxx",
+        "latitude": -33.921500,
+        "longitude": 18.422540
+    },
+    {
+        "store": "McDonald's Maitland Drive-Thru",
+        "address": "199 Voortrekker Rd",
+        "telephone": "021 510 1130",
+        "latitude": -33.923820,
+        "longitude": 18.497510
+    },
+    {
+        "store": "McDonald's Milnerton Drive-Thru",
+        "address": "Cnr Koeberg &, Bosmansdam Rd",
+        "latitude": -33.870240,
+        "longitude": 18.512490
+    },
+    {
+        "store": "McDonald’s Long Street",
+        "address": "Kloof St, Gardens, Cape Town, 8001",
+        "telephone": "021 422 1371",
+        "latitude": -33.922920,
+        "longitude": 18.418630
+    },
+    {
+        "store": "McDonald’s Rondebosch",
+        "address": "51 Main Rd · In Rondebosch Main Shopping Centre ",
+        "telephone": "0860 000 040",
+        "latitude": -33.9602175,
+        "longitude": 18.4703038
+    },
+    {
+        "store": "McDonald’s Canal Walk",
+        "address": "Canal Walk Shopping Centre, Century Blvd",
+        "latitude": -34.051640,
+        "longitude": 18.509080
+    },
+    {
+        "store": "McDonald's Vangate Drive-Thru",
+        "address": "Vangate Mall Cnr M7 &, Heideveld Rd ",
+        "latitude": -33.95894,
+        "longitude": 18.54013
+    },
+    {
+        "store": "McDonald’s Claremont",
+        "address": "171&nbsp, Main Rd",
+        "telephone": "021 671 5445",
+        "latitude": -33.984060,
+        "longitude": 18.473780
+    },
+    {
+        "store": "McDonald’s Seapoint Drive-Thru",
+        "address": "Cnr Main Road &, The Glen",
+        "telephone": "021 433 2280",
+        "latitude": -33.91570,
+        "longitude": 18.38968
+    },
+    {
+        "store": "McDonald’s Spin Street",
+        "address": "Cape Town City Centre Cnr Parliament Street &, Spin St ",
+        "telephone": "021 422 1185",
+        "latitude": -33.92492,
+        "longitude": 18.42107
+    }
+]

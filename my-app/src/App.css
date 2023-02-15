@@ -2,37 +2,79 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.map-wrap {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 75px);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html,
+body {
+  margin: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#App {
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+#page-wrap {
+  text-align: left;
+  overflow: auto;
+}
+
+.bm-item {
+  display: grid;
+  justify-content: flex-start;
+  text-decoration: none;
+  margin-bottom: 1px;
+  color: #000000;
+  transition: color 0.2s;
+}
+
+.bm-item:hover {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.bm-burger-button {
+  position: relative;
+  width: 50px;
+  height: 24px;
+  left: 24px;
+  top: 24px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bm-burger-bars {
+  background: #373a47;
+  margin-top: 12px;
+  margin-left: 25px;
+
+
+}
+
+.bm-cross-button {
+  height: 75px;
+  width: 75px;
+}
+
+.bm-cross {
+  background: #000000;
+  margin-top: 25px;
+}
+
+.bm-menu {
+  background: #ffff;
+  border-radius: 10px;
+  margin-left: 25px;
+  margin-top: 25px;
+  padding: 2em 1em 0;
+  font-size: 1.1em;
+}
+
+.bm-morph-shape {
+  fill: #e3e5ed;
+}
+
+.bm-item-list {
+  color: #000000;
 }
